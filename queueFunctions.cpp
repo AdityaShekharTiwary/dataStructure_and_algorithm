@@ -56,7 +56,6 @@ class Queue{
                     arr[rear]=val;
                 }
 
-
         }
 
         int dequeue()
@@ -162,10 +161,3 @@ int main ()
 }
     return 0;
     }
-
-
-
-
-
-
-
