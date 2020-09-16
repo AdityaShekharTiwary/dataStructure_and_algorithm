@@ -18,7 +18,6 @@ public:
         key = k;
         data = d;
     }
-
 };
 
 class SinglyLinkedList{
