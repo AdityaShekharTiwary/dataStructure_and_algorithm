@@ -187,7 +187,6 @@ class DoublyLinkedList
 						cout << "Node Deleted in between" << endl;
 					}
 
-
 			}
 		}
 	}
