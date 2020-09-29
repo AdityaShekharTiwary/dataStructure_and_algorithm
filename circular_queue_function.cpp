@@ -59,8 +59,6 @@ class CircularQueue{
                     arr[rear]=val;
                     itemCount++;
                 }
-
-
         }
 
         int dequeue()
