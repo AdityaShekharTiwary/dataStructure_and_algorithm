@@ -24,6 +24,7 @@ class TreeNode{
 
 class BST
 {
+	
 	public:
 		TreeNode*root;
 		BST()
