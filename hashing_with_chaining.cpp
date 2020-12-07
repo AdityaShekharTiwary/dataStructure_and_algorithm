@@ -50,6 +50,7 @@ for (i = table[index].begin();
 	break;
 }
 
+	
 // if key is found in hash table, remove it
 if (i != table[index].end())
 	table[index].erase(i);
