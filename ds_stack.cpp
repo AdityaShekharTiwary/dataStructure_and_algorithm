@@ -16,7 +16,6 @@ public:
             arr[i]=0;
         }
     }
-
     // is empty
 
     bool isEmpty()
