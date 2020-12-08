@@ -11,6 +11,7 @@ class CircularQueue{
     public:
         CircularQueue()
         {
+            
         	itemCount=0;
             front = -1;
             rear = -1;
