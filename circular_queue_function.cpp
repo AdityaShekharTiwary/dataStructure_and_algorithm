@@ -7,7 +7,6 @@ class CircularQueue{
         int rear ;
         int arr[5];
         int itemCount;
-
     public:
         CircularQueue()
         {
