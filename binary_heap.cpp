@@ -12,7 +12,6 @@ class MinHeap
 public:
 
     MinHeap(int capacity);
-
     void MinHeapify(int );
 
     int parent(int i)
