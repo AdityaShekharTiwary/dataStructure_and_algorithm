@@ -8,6 +8,7 @@ struct btnode
     struct btnode *r;
 }*root = NULL, *temp = NULL, *t2, *t1;
 
+
 void delete1();
 void insert();
 void delete();
