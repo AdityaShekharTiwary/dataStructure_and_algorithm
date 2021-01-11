@@ -8,6 +8,7 @@ class Node{
 	int data;
 	Node* next;
 
+	
 	Node()
 	{
 		key=0;
