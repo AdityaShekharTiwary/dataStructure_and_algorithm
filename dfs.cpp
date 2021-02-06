@@ -9,6 +9,7 @@ typedef struct
     int **wt;//2D array using pointers
 }GRAPH;
 
+
 typedef struct
 {
     int top;
